@@ -1,0 +1,420 @@
+[33mcommit 489bc330eb016c39f4e2078ddb8a3ed699668f36[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: isaac-chammah <isaacchammah@gmail.com>
+Date:   Wed Aug 2 17:21:01 2023 -0400
+
+    Files Created
+
+[1mdiff --git a/County_-_Expenditures.csv b/County_-_Expenditures.csv[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d39ea24[m
+[1m--- /dev/null[m
+[1m+++ b/County_-_Expenditures.csv[m
+[36m@@ -0,0 +1,342457 @@[m
+[32m+[m[32mEntity Name,Fiscal Year,Type,Form/Table,Category,Subcategory 1,Subcategory 2,Line Description,Values,Zip Code,Estimated Population,Area in Sq. Miles,Row Number[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Internal Service Fund,Operating Expenses,Personnel Services_Internal Service Fund,Personnel Services_Internal Service Fund,91535486,94612,1669301,825,201910571648[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Internal Service Fund,Operating Expenses,Contractual Services_Internal Service Fund,Contractual Services_Internal Service Fund,20317934,94612,1669301,825,201910571647[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Internal Service Fund,Operating Expenses,Materials and Supplies_Internal Service Fund,Materials and Supplies_Internal Service Fund,0,94612,1669301,825,201910571646[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Internal Service Fund,Operating Expenses,General and Administrative Expenses_Internal Service Fund,General and Administrative Expenses_Internal Service Fund,158947272,94612,1669301,825,201910571645[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Internal Service Fund,Operating Expenses,Depreciation and Amortization Expenses_Internal Service Funds,Depreciation and Amortization Expenses_Internal Service Funds,6654104,94612,1669301,825,201910571644[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Internal Service Fund,Operating Expenses,Other Operating Expenses_Internal Service Fund,Other Operating Expenses_Internal Service Fund,9029436,94612,1669301,825,201910571643[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Internal Service Fund,Nonoperating Expenses,Interest Expense_Internal Service Fund,Interest Expense_Internal Service Fund,0,94612,1669301,825,201910571642[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Internal Service Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Internal Service Fund,Loss on Disposal of Capital Assets_Internal Service Fund,63020,94612,1669301,825,201910571641[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Internal Service Fund,Nonoperating Expenses,Other Nonoperating Expenses_Internal Service Fund,Other Nonoperating Expenses_Internal Service Fund,0,94612,1669301,825,201910571640[m
+[32m+[m[32mAlameda,2019,Expenditures,LANDING_AREA,Airport Enterprise Fund,Operating Expenses,Maintenance and Operation,Landing Areas_Airport Enterprise Fund,0,94612,1669301,825,201910571639[m
+[32m+[m[32mAlameda,2019,Expenditures,AIRCRAFT_PARKING_MAINT,Airport Enterprise Fund,Operating Expenses,Maintenance and Operation,Aircraft Parking_Airport Enterprise Fund,0,94612,1669301,825,201910571638[m
+[32m+[m[32mAlameda,2019,Expenditures,HANGARS,Airport Enterprise Fund,Operating Expenses,Maintenance and Operation,Hangars_Airport Enterprise Fund,0,94612,1669301,825,201910571637[m
+[32m+[m[32mAlameda,2019,Expenditures,TERMNL_BLDG_AREAS,Airport Enterprise Fund,Operating Expenses,Maintenance and Operation,Terminal Buildings and Areas_Airport Enterprise Fund,0,94612,1669301,825,201910571636[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_BLDGS_AREAS,Airport Enterprise Fund,Operating Expenses,Maintenance and Operation,Other Buildings and Areas_Airport Enterprise Fund,0,94612,1669301,825,201910571635[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_SHOPS_EQUIP,Airport Enterprise Fund,Operating Expenses,Maintenance and Operation,General Shops and Equipment_Airport Enterprise Fund,0,94612,1669301,825,201910571634[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Airport Enterprise Fund,Operating Expenses,Personnel Services_Airport Enterprise Fund,Personnel Services_Airport Enterprise Fund,0,94612,1669301,825,201910571633[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Airport Enterprise Fund,Operating Expenses,Contractual Services_Airport Enterprise Fund,Contractual Services_Airport Enterprise Fund,0,94612,1669301,825,201910571632[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Airport Enterprise Fund,Operating Expenses,Materials and Supplies_Airport Enterprise Fund,Materials and Supplies_Airport Enterprise Fund,0,94612,1669301,825,201910571631[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Airport Enterprise Fund,Operating Expenses,General and Administrative Expenses_Airport Enterprise Fund,General and Administrative Expenses_Airport Enterprise Fund,0,94612,1669301,825,201910571630[m
+[32m+[m[32mAlameda,2019,Expenditures,COST_SALES_SERV,Airport Enterprise Fund,Operating Expenses,Cost of Sales and Services_Airport Enterprise Fund,Cost of Sales and Services_Airport Enterprise Fund,0,94612,1669301,825,201910571629[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Airport Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Airport Enterprise Fund,Depreciation and Amortization Expenses_Airport Enterprise Fund,0,94612,1669301,825,201910571628[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Airport Enterprise Fund,Operating Expenses,Other Operating Expenses_Airport Enterprise Fund,Other Operating Expenses_Airport Enterprise Fund,0,94612,1669301,825,201910571627[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Airport Enterprise Fund,Nonoperating Expenses,Interest Expense_Airport Enterprise Fund,Interest Expense_Airport Enterprise Fund,0,94612,1669301,825,201910571626[m
+[32m+[m[32mAlameda,2019,Expenditures,TAX_ASSESS,Airport Enterprise Fund,Nonoperating Expenses,Taxes and Assessments_Airport Enterprise Fund,Taxes and Assessments_Airport Enterprise Fund,0,94612,1669301,825,201910571625[m
+[32m+[m[32mAlameda,2019,Expenditures,JUDGEMENTS_DAMAGES,Airport Enterprise Fund,Nonoperating Expenses,Judgments and Damages_Airport Enterprise Fund,Judgments and Damages_Airport Enterprise Fund,0,94612,1669301,825,201910571624[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Airport Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Airport Enterprise Fund,Loss on Disposal of Capital Assets_Airport Enterprise Fund,0,94612,1669301,825,201910571623[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Airport Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Airport Enterprise Fund,Other Nonoperating Expenses_Airport Enterprise Fund,0,94612,1669301,825,201910571622[m
+[32m+[m[32mAlameda,2019,Expenditures,ELEC_GENERATION,Electric Enterprise Fund,Operating Expenses,Electricity Production Expenses,Electricity Generation_Electric Enterprise Fund,0,94612,1669301,825,201910571621[m
+[32m+[m[32mAlameda,2019,Expenditures,ELEC_PURCHASES,Electric Enterprise Fund,Operating Expenses,Electricity Production Expenses,Electricity Purchases_Electric Enterprise Fund,0,94612,1669301,825,201910571620[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_ELEC_PROD_EXP,Electric Enterprise Fund,Operating Expenses,Electricity Production Expenses,Other Electricity Production Expenses_Electric Enterprise Fund,0,94612,1669301,825,201910571619[m
+[32m+[m[32mAlameda,2019,Expenditures,TRANSMISSION,Electric Enterprise Fund,Operating Expenses,Transmission and Distribution_Electric Enterprise Fund,Transmission and Distribution_Electric Enterprise Fund,0,94612,1669301,825,201910571618[m
+[32m+[m[32mAlameda,2019,Expenditures,CUST_ACCOUNT_COLL,Electric Enterprise Fund,Operating Expenses,Customer Accounting and Collection_Electric Enterprise Fund,Customer Accounting and Collection_Electric Enterprise Fund,0,94612,1669301,825,201910571617[m
+[32m+[m[32mAlameda,2019,Expenditures,SALES_PROMO,Electric Enterprise Fund,Operating Expenses,Sales Promotion_Electric Enterprise Fund,Sales Promotion_Electric Enterprise Fund,0,94612,1669301,825,201910571616[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Electric Enterprise Fund,Operating Expenses,Personnel Services_Electric Enterprise Fund,Personnel Services_Electric Enterprise Fund,0,94612,1669301,825,201910571615[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Electric Enterprise Fund,Operating Expenses,Contractual Services_Electric Enterprise Fund,Contractual Services_Electric Enterprise Fund,0,94612,1669301,825,201910571614[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Electric Enterprise Fund,Operating Expenses,Materials and Supplies_Electric Enterprise Fund,Materials and Supplies_Electric Enterprise Fund,0,94612,1669301,825,201910571613[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Electric Enterprise Fund,Operating Expenses,General and Administrative Expenses_Electric Enterprise Fund,General and Administrative Expenses_Electric Enterprise Fund,0,94612,1669301,825,201910571612[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Electric Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Electric Enterprise Fund,Depreciation and Amortization Expenses_Electric Enterprise Fund,0,94612,1669301,825,201910571611[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Electric Enterprise Fund,Operating Expenses,Other Operating Expenses_Electric Enterprise Fund,Other Operating Expenses_Electric Enterprise Fund,0,94612,1669301,825,201910571610[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Electric Enterprise Fund,Nonoperating Expense,Interest Expense_Electric Enterprise Fund,Interest Expense_Electric Enterprise Fund,0,94612,1669301,825,201910571609[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Electric Enterprise Fund,Nonoperating Expense,Loss on Disposal of Capital Assets_Electric Enterprise Fund,Loss on Disposal of Capital Assets_Electric Enterprise Fund,0,94612,1669301,825,201910571608[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Electric Enterprise Fund,Nonoperating Expense,Other Nonoperating Expenses_Electric Enterprise Fund,Other Nonoperating Expenses_Electric Enterprise Fund,0,94612,1669301,825,201910571607[m
+[32m+[m[32mAlameda,2019,Expenditures,GAS_MANUFACT,Gas Enterprise Fund,Operating Expenses,Gas Production Expenses,Gas Manufactured_Gas Enterprise Fund,0,94612,1669301,825,201910571606[m
+[32m+[m[32mAlameda,2019,Expenditures,GAS_PURCHASES,Gas Enterprise Fund,Operating Expenses,Gas Production Expenses,Gas Purchases_Gas Enterprise Fund,0,94612,1669301,825,201910571605[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_GAS_PROD_EXP,Gas Enterprise Fund,Operating Expenses,Gas Production Expenses,Other Gas Production Expenses_Gas Enterprise Fund,0,94612,1669301,825,201910571604[m
+[32m+[m[32mAlameda,2019,Expenditures,TRANSMISSION,Gas Enterprise Fund,Operating Expenses,Transmission and Distribution_Gas Enterprise Fund,Transmission and Distribution_Gas Enterprise Fund,0,94612,1669301,825,201910571603[m
+[32m+[m[32mAlameda,2019,Expenditures,CUST_ACCOUNT_COLL,Gas Enterprise Fund,Operating Expenses,Customer Accounting and Collection_Gas Enterprise Fund,Customer Accounting and Collection_Gas Enterprise Fund,0,94612,1669301,825,201910571602[m
+[32m+[m[32mAlameda,2019,Expenditures,SALES_PROMO,Gas Enterprise Fund,Operating Expenses,Sales Promotion_Gas Enterprise Fund,Sales Promotion_Gas Enterprise Fund,0,94612,1669301,825,201910571601[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Gas Enterprise Fund,Operating Expenses,Personnel Services_Gas Enterprise Fund,Personnel Services_Gas Enterprise Fund,0,94612,1669301,825,201910571600[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Gas Enterprise Fund,Operating Expenses,Contractual Services_Gas Enterprise Fund,Contractual Services_Gas Enterprise Fund,0,94612,1669301,825,201910571599[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Gas Enterprise Fund,Operating Expenses,Materials and Supplies_Gas Enterprise Fund,Materials and Supplies_Gas Enterprise Fund,0,94612,1669301,825,201910571598[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Gas Enterprise Fund,Operating Expenses,General and Administrative Expenses_Gas Enterprise Fund,General and Administrative Expenses_Gas Enterprise Fund,0,94612,1669301,825,201910571597[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Gas Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Gas Enterprise Fund,Depreciation and Amortization Expenses_Gas Enterprise Fund,0,94612,1669301,825,201910571596[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Gas Enterprise Fund,Operating Expenses,Other Operating Expenses_Gas Enterprise Fund,Other Operating Expenses_Gas Enterprise Fund,0,94612,1669301,825,201910571595[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Gas Enterprise Fund,Nonoperating Expenses,Interest Expense_Gas Enterprise Fund,Interest Expense_Gas Enterprise Fund,0,94612,1669301,825,201910571594[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Gas Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Gas Enterprise Fund,Loss on Disposal of Capital Assets_Gas Enterprise Fund,0,94612,1669301,825,201910571593[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Gas Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Gas Enterprise Fund,Other Nonoperating Expenses_Gas Enterprise Fund,0,94612,1669301,825,201910571592[m
+[32m+[m[32mAlameda,2019,Expenditures,OPERATE_SECURITY,Harbor and Port Enterprise Fund,Operating Expenses,Operation and Security_Harbor and Port Enterprise Fund,Operation and Security_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571591[m
+[32m+[m[32mAlameda,2019,Expenditures,MAINTENANCE,Harbor and Port Enterprise Fund,Operating Expenses,Maintenance_Harbor and Port Enterprise Fund,Maintenance_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571590[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Harbor and Port Enterprise Fund,Operating Expenses,Personnel Services_Harbor and Port Enterprise Fund,Personnel Services_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571589[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Harbor and Port Enterprise Fund,Operating Expenses,Contractual Services_Harbor and Port Enterprise Fund,Contractual Services_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571588[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Harbor and Port Enterprise Fund,Operating Expenses,Materials and Supplies_Harbor and Port Enterprise Fund,Materials and Supplies_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571587[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Harbor and Port Enterprise Fund,Operating Expenses,General and Administrative Expenses_Harbor and Port Enterprise Fund,General and Administrative Expenses_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571586[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Harbor and Port Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Harbor and Port Enterprise Fund,Depreciation and Amortization Expenses_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571585[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Harbor and Port Enterprise Fund,Operating Expenses,Other Operating Expenses_Harbor and Port Enterprise Fund,Other Operating Expenses_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571584[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Harbor and Port Enterprise Fund,Nonoperating Expenses,Interest Expense_Harbor and Port Enterprise Fund,Interest Expense_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571583[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Harbor and Port Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Harbor and Port Enterprise Fund,Loss on Disposal of Capital Assets_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571582[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Harbor and Port Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Harbor and Port Enterprise Fund,Other Nonoperating Expenses_Harbor and Port Enterprise Fund,0,94612,1669301,825,201910571581[m
+[32m+[m[32mAlameda,2019,Expenditures,OE_DAILY_HOSPITAL_SERV,Hospital Enterprise Fund Fund,Operating Expenses,Daily Hospital Services_Hospital Enterprise Fund,Daily Hospital Services_Hospital Enterprise Fund,0,94612,1669301,825,201910571580[m
+[32m+[m[32mAlameda,2019,Expenditures,OE_AMBUL_SERV,Hospital Enterprise Fund Fund,Operating Expenses,Ambulatory Services_Hospital Enterprise Fund,Ambulatory Services_Hospital Enterprise Fund,0,94612,1669301,825,201910571579[m
+[32m+[m[32mAlameda,2019,Expenditures,OE_ANCILLARY_SERV,Hospital Enterprise Fund Fund,Operating Expenses,Ancillary Services_Hospital Enterprise Fund,Ancillary Services_Hospital Enterprise Fund,0,94612,1669301,825,201910571578[m
+[32m+[m[32mAlameda,2019,Expenditures,PS_INPATIENT,Hospital Enterprise Fund Fund,Operating Expenses,Purchased Services,Inpatient_Hospital Enterprise Fund,0,94612,1669301,825,201910571577[m
+[32m+[m[32mAlameda,2019,Expenditures,PS_OUTPATIENT,Hospital Enterprise Fund Fund,Operating Expenses,Purchased Services,Outpatient_Hospital Enterprise Fund,0,94612,1669301,825,201910571576[m
+[32m+[m[32mAlameda,2019,Expenditures,RESEARCH_EXP,Hospital Enterprise Fund Fund,Operating Expenses,Research Expenses_Hospital Enterprise Fund,Research Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571575[m
+[32m+[m[32mAlameda,2019,Expenditures,EDU_EXP,Hospital Enterprise Fund Fund,Operating Expenses,Education Expenses_Hospital Enterprise Fund,Education Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571574[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Hospital Enterprise Fund Fund,Operating Expenses,Personnel Services_Hospital Enterprise Fund,Personnel Services_Hospital Enterprise Fund,0,94612,1669301,825,201910571573[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Hospital Enterprise Fund Fund,Operating Expenses,Contractual Services_Hospital Enterprise Fund,Contractual Services_Hospital Enterprise Fund,0,94612,1669301,825,201910571572[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Hospital Enterprise Fund Fund,Operating Expenses,Materials and Supplies_Hospital Enterprise Fund,Materials and Supplies_Hospital Enterprise Fund,0,94612,1669301,825,201910571571[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Hospital Enterprise Fund Fund,Operating Expenses,General and Administrative Expenses_Hospital Enterprise Fund,General and Administrative Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571570[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Hospital Enterprise Fund Fund,Operating Expenses,Depreciation and Amortization Expenses_Hospital Enterprise Fund,Depreciation and Amortization Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571569[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Hospital Enterprise Fund Fund,Operating Expenses,Other Operating Expenses_Hospital Enterprise Fund,Other Operating Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571568[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Interest Expense_Hospital Enterprise Fund,Interest Expense_Hospital Enterprise Fund,0,94612,1669301,825,201910571567[m
+[32m+[m[32mAlameda,2019,Expenditures,INTERGOV_TRANS_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Intergovernmental Transfers Expense_Hospital Enterprise Fund,Intergovernmental Transfers Expense_Hospital Enterprise Fund,0,94612,1669301,825,201910571566[m
+[32m+[m[32mAlameda,2019,Expenditures,MAINT_RESTRICTED_FUND_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Maintenance of Restricted Funds Expenses_Hospital Enterprise Fund,Maintenance of Restricted Funds Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571565[m
+[32m+[m[32mAlameda,2019,Expenditures,PHYSICIAN_OFFICE_OTHR_RNTL_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Physician’s Office and Other Rental Expenses_Hospital Enterprise Fund,Physician’s Office and Other Rental Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571564[m
+[32m+[m[32mAlameda,2019,Expenditures,MEDICAL_OFFICE_BUILD_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Medical Office Building Expenses_Hospital Enterprise Fund,Medical Office Building Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571563[m
+[32m+[m[32mAlameda,2019,Expenditures,CHILD_CARE_SERV_EXP_NONEMPL,Hospital Enterprise Fund Fund,Nonoperating Expenses,Child Care Services Expenses (Nonemployees)_Hospital Enterprise Fund,Child Care Services Expenses (Nonemployees)_Hospital Enterprise Fund,0,94612,1669301,825,201910571562[m
+[32m+[m[32mAlpine,2021,Expenditures,PERM_BOARD_SUPERVISORS,General Government,Legislative and Administrative,Permanent,Board of Supervisors_Permanent,0,96120,1195,727,202110561471[m
+[32m+[m[32mAlameda,2019,Expenditures,FAMILY_HOUSING_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Family Housing Expenses_Hospital Enterprise Fund,Family Housing Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571561[m
+[32m+[m[32mAlameda,2019,Expenditures,RETAIL_OP_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Retail Operations Expenses_Hospital Enterprise Fund,Retail Operations Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571560[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Hospital Enterprise Fund Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Hospital Enterprise Fund,Loss on Disposal of Capital Assets_Hospital Enterprise Fund,0,94612,1669301,825,201910571559[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Hospital Enterprise Fund Fund,Nonoperating Expenses,Other Nonoperating Expenses_Hospital Enterprise Fund,Other Nonoperating Expenses_Hospital Enterprise Fund,0,94612,1669301,825,201910571558[m
+[32m+[m[32mAlameda,2019,Expenditures,TRANSMISSION,Sewer Enterprise Fund,Operating Expenses,Transmission_Sewer Enterprise Fund,Transmission_Sewer Enterprise Fund,0,94612,1669301,825,201910571557[m
+[32m+[m[32mAlameda,2019,Expenditures,TREAT_DISP,Sewer Enterprise Fund,Operating Expenses,Treatment and Disposal_Sewer Enterprise Fund,Treatment and Disposal_Sewer Enterprise Fund,0,94612,1669301,825,201910571556[m
+[32m+[m[32mAlameda,2019,Expenditures,TAXES,Sewer Enterprise Fund,Operating Expenses,Taxes_Sewer Enterprise Fund,Taxes_Sewer Enterprise Fund,0,94612,1669301,825,201910571555[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Sewer Enterprise Fund,Operating Expenses,Personnel Services_Sewer Enterprise Fund,Personnel Services_Sewer Enterprise Fund,0,94612,1669301,825,201910571554[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Sewer Enterprise Fund,Operating Expenses,Contractual Services_Sewer Enterprise Fund,Contractual Services_Sewer Enterprise Fund,0,94612,1669301,825,201910571553[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Sewer Enterprise Fund,Operating Expenses,Materials and Supplies_Sewer Enterprise Fund,Materials and Supplies_Sewer Enterprise Fund,0,94612,1669301,825,201910571552[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Sewer Enterprise Fund,Operating Expenses,General and Administrative Expenses_Sewer Enterprise Fund,General and Administrative Expenses_Sewer Enterprise Fund,0,94612,1669301,825,201910571551[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Sewer Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Sewer Enterprise Fund,Depreciation and Amortization Expenses_Sewer Enterprise Fund,0,94612,1669301,825,201910571550[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Sewer Enterprise Fund,Operating Expenses,Other Operating Expenses_Sewer Enterprise Fund,Other Operating Expenses_Sewer Enterprise Fund,0,94612,1669301,825,201910571549[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Sewer Enterprise Fund,Nonoperating Expenses,Interest Expense_Sewer Enterprise Fund,Interest Expense_Sewer Enterprise Fund,0,94612,1669301,825,201910571548[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Sewer Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Sewer Enterprise Fund,Loss on Disposal of Capital Assets_Sewer Enterprise Fund,0,94612,1669301,825,201910571547[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Sewer Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Sewer Enterprise Fund,Other Nonoperating Expenses_Sewer Enterprise Fund,0,94612,1669301,825,201910571546[m
+[32m+[m[32mAlameda,2019,Expenditures,DISP_PERS_SERV,Solid Waste Enterprise Fund,Operating Expenses,Disposal Expenses,Personnel Services_Disposal Expenses_Solid Waste,0,94612,1669301,825,201910571545[m
+[32m+[m[32mAlameda,2019,Expenditures,DISP_CONTRACT_SERV,Solid Waste Enterprise Fund,Operating Expenses,Disposal Expenses,Contractual Services_Disposal Expenses_Solid Waste,0,94612,1669301,825,201910571544[m
+[32m+[m[32mAlameda,2019,Expenditures,DISP_MATERIAL_SUPP,Solid Waste Enterprise Fund,Operating Expenses,Disposal Expenses,Materials and Supplies_Disposal Expenses_Solid Waste,0,94612,1669301,825,201910571543[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_DISP_EXP_ABATE,Solid Waste Enterprise Fund,Operating Expenses,Disposal Expenses,Other Disposal Expenses (Abatements)_Solid Waste,0,94612,1669301,825,201910571542[m
+[32m+[m[32mAlameda,2019,Expenditures,COLL_PERS_SERV,Solid Waste Enterprise Fund,Operating Expenses,Collection Expenses,Personnel Services_Collection Expenses_Solid Waste,0,94612,1669301,825,201910571541[m
+[32m+[m[32mAlameda,2019,Expenditures,COLL_CONTRACT_SERV,Solid Waste Enterprise Fund,Operating Expenses,Collection Expenses,Contractual Services_Collection Expenses_Solid Waste,0,94612,1669301,825,201910571540[m
+[32m+[m[32mAlameda,2019,Expenditures,COLL_MATERIAL_SUPP,Solid Waste Enterprise Fund,Operating Expenses,Collection Expenses,Materials and Supplies_Collection Expenses_Solid Waste,0,94612,1669301,825,201910571539[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_COLL_EXP,Solid Waste Enterprise Fund,Operating Expenses,Collection Expenses,Other Collection Expenses_Solid Waste,0,94612,1669301,825,201910571538[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Solid Waste Enterprise Fund,Operating Expenses,General and Administrative Expenses_Solid Waste,General and Administrative Expenses_Solid Waste,0,94612,1669301,825,201910571537[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Solid Waste Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Solid Waste,Depreciation and Amortization Expenses_Solid Waste,0,94612,1669301,825,201910571536[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Solid Waste Enterprise Fund,Operating Expenses,Other Operating Expenses_Solid Waste,Other Operating Expenses_Solid Waste,0,94612,1669301,825,201910571535[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Solid Waste Enterprise Fund,Nonoperating Expenses,Interest Expense_Solid Waste,Interest Expense_Solid Waste,0,94612,1669301,825,201910571534[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Solid Waste Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Solid Waste,Loss on Disposal of Capital Assets_Solid Waste,0,94612,1669301,825,201910571533[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Solid Waste Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Solid Waste,Other Nonoperating Expenses_Solid Waste,0,94612,1669301,825,201910571532[m
+[32m+[m[32mAlameda,2019,Expenditures,TOLL_EXP,Transit Enterprise Fund,Operating Expenses,Toll Expenses_Transit Enterprise Fund,Toll Expenses_Transit Enterprise Fund,0,94612,1669301,825,201910571531[m
+[32m+[m[32mAlameda,2019,Expenditures,TRANSPORT_PURCHASES,Transit Enterprise Fund,Operating Expenses,Transportation Purchases_Transit Enterprise Fund,Transportation Purchases_Transit Enterprise Fund,0,94612,1669301,825,201910571530[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Transit Enterprise Fund,Operating Expenses,Personnel Services_Transit Enterprise Fund,Personnel Services_Transit Enterprise Fund,0,94612,1669301,825,201910571529[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Transit Enterprise Fund,Operating Expenses,Contractual Services_Transit Enterprise Fund,Contractual Services_Transit Enterprise Fund,0,94612,1669301,825,201910571528[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Transit Enterprise Fund,Operating Expenses,Materials and Supplies_Transit Enterprise Fund,Materials and Supplies_Transit Enterprise Fund,0,94612,1669301,825,201910571527[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Transit Enterprise Fund,Operating Expenses,General and Administrative Expenses_Transit Enterprise Fund,General and Administrative Expenses_Transit Enterprise Fund,0,94612,1669301,825,201910571526[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Transit Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Transit Enterprise Fund,Depreciation and Amortization Expenses_Transit Enterprise Fund,0,94612,1669301,825,201910571525[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Transit Enterprise Fund,Operating Expenses,Other Operating Expenses_Transit Enterprise Fund,Other Operating Expenses_Transit Enterprise Fund,0,94612,1669301,825,201910571524[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Transit Enterprise Fund,Nonoperating Expenses,Interest Expense_Transit Enterprise Fund,Interest Expense_Transit Enterprise Fund,0,94612,1669301,825,201910571523[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Transit Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Transit Enterprise Fund,Loss on Disposal of Capital Assets_Transit Enterprise Fund,0,94612,1669301,825,201910571522[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Transit Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Transit Enterprise Fund,Other Nonoperating Expenses_Transit Enterprise Fund,0,94612,1669301,825,201910571521[m
+[32m+[m[32mAlameda,2019,Expenditures,WATER_SUPPLY,Water Enterprise Fund,Operating Expenses,Water Supply Expenses,Water Supply_Water Enterprise Fund,0,94612,1669301,825,201910571520[m
+[32m+[m[32mAlameda,2019,Expenditures,WATER_PURCHASES,Water Enterprise Fund,Operating Expenses,Water Supply Expenses,Water Purchases_Water Enterprise Fund,0,94612,1669301,825,201910571519[m
+[32m+[m[32mAlameda,2019,Expenditures,GROUNDWATER_REPLEN_EXP,Water Enterprise Fund,Operating Expenses,Water Supply Expenses,Groundwater Replenishment_Water Enterprise Fund,0,94612,1669301,825,201910571518[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_WATER_SUPPLY_EXP,Water Enterprise Fund,Operating Expenses,Water Supply Expenses,Other Water Supply Expenses_Water Enterprise Fund,0,94612,1669301,825,201910571517[m
+[32m+[m[32mAlameda,2019,Expenditures,PUMPING,Water Enterprise Fund,Operating Expenses,Pumping_Water Enterprise Fund,Pumping_Water Enterprise Fund,0,94612,1669301,825,201910571516[m
+[32m+[m[32mAlameda,2019,Expenditures,TREATMENT,Water Enterprise Fund,Operating Expenses,Treatment_Water Enterprise Fund,Treatment_Water Enterprise Fund,0,94612,1669301,825,201910571515[m
+[32m+[m[32mAlameda,2019,Expenditures,TRANSMISSION,Water Enterprise Fund,Operating Expenses,Transmission_Water Enterprise Fund,Transmission_Water Enterprise Fund,0,94612,1669301,825,201910571514[m
+[32m+[m[32mAlameda,2019,Expenditures,DISTRIBUTION,Water Enterprise Fund,Operating Expenses,Distribution_Water Enterprise Fund,Distribution_Water Enterprise Fund,0,94612,1669301,825,201910571513[m
+[32m+[m[32mAlameda,2019,Expenditures,CUST_ACCOUNT_COLL,Water Enterprise Fund,Operating Expenses,Customer Accounting and Collection_Water Enterprise Fund,Customer Accounting and Collection_Water Enterprise Fund,0,94612,1669301,825,201910571512[m
+[32m+[m[32mAlameda,2019,Expenditures,SALES_PROMO,Water Enterprise Fund,Operating Expenses,Sales Promotion_Water Enterprise Fund,Sales Promotion_Water Enterprise Fund,0,94612,1669301,825,201910571511[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Water Enterprise Fund,Operating Expenses,Personnel Services_Water Enterprise Fund,Personnel Services_Water Enterprise Fund,0,94612,1669301,825,201910571510[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Water Enterprise Fund,Operating Expenses,Contractual Services_Water Enterprise Fund,Contractual Services_Water Enterprise Fund,0,94612,1669301,825,201910571509[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Water Enterprise Fund,Operating Expenses,Materials and Supplies_Water Enterprise Fund,Materials and Supplies_Water Enterprise Fund,0,94612,1669301,825,201910571508[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Water Enterprise Fund,Operating Expenses,General and Administrative Expenses_Water Enterprise Fund,General and Administrative Expenses_Water Enterprise Fund,0,94612,1669301,825,201910571507[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Water Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Water Enterprise Fund,Depreciation and Amortization Expenses_Water Enterprise Fund,0,94612,1669301,825,201910571506[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Water Enterprise Fund,Operating Expenses,Other Operating Expenses_Water Enterprise Fund,Other Operating Expenses_Water Enterprise Fund,0,94612,1669301,825,201910571505[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Water Enterprise Fund,Nonoperating Expenses,Interest Expense_Water Enterprise Fund,Interest Expense_Water Enterprise Fund,0,94612,1669301,825,201910571504[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Water Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Water Enterprise Fund,Loss on Disposal of Capital Assets_Water Enterprise Fund,0,94612,1669301,825,201910571503[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Water Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Water Enterprise Fund,Other Nonoperating Expenses_Water Enterprise Fund,0,94612,1669301,825,201910571502[m
+[32m+[m[32mAlameda,2019,Expenditures,PERS_SERV,Other Enterprise Fund,Operating Expenses,Personnel Services_Other Enterprise Fund,Personnel Services_Other Enterprise Fund,0,94612,1669301,825,201910571501[m
+[32m+[m[32mAlameda,2019,Expenditures,CONTRACT_SERV,Other Enterprise Fund,Operating Expenses,Contractual Services_Other Enterprise Fund,Contractual Services_Other Enterprise Fund,0,94612,1669301,825,201910571500[m
+[32m+[m[32mAlameda,2019,Expenditures,MATERIAL_SUPP,Other Enterprise Fund,Operating Expenses,Materials and Supplies_Other Enterprise Fund,Materials and Supplies_Other Enterprise Fund,0,94612,1669301,825,201910571499[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_EXP,Other Enterprise Fund,Operating Expenses,General and Administrative Expenses_Other Enterprise Fund,General and Administrative Expenses_Other Enterprise Fund,0,94612,1669301,825,201910571498[m
+[32m+[m[32mAlameda,2019,Expenditures,DEPR_AMORT_EXP,Other Enterprise Fund,Operating Expenses,Depreciation and Amortization Expenses_Other Enterprise Fund,Depreciation and Amortization Expenses_Other Enterprise Fund,0,94612,1669301,825,201910571497[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_OP_EXP,Other Enterprise Fund,Operating Expenses,Other Operating Expenses_Other Enterprise Fund,Other Operating Expenses_Other Enterprise Fund,0,94612,1669301,825,201910571496[m
+[32m+[m[32mAlameda,2019,Expenditures,INT_EXP,Other Enterprise Fund,Nonoperating Expenses,Interest Expense_Other Enterprise Fund,Interest Expense_Other Enterprise Fund,0,94612,1669301,825,201910571495[m
+[32m+[m[32mAlameda,2019,Expenditures,LOSS_DISP_CAP_ASSET,Other Enterprise Fund,Nonoperating Expenses,Loss on Disposal of Capital Assets_Other Enterprise Fund,Loss on Disposal of Capital Assets_Other Enterprise Fund,0,94612,1669301,825,201910571494[m
+[32m+[m[32mAlameda,2019,Expenditures,OTHR_NONOP_EXP,Other Enterprise Fund,Nonoperating Expenses,Other Nonoperating Expenses_Other Enterprise Fund,Other Nonoperating Expenses_Other Enterprise Fund,0,94612,1669301,825,201910571493[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_LEGAL_FEE,Conduit Financing,Operating Expenses,Enterprise Fund,Legal Fees_Conduit Financing,0,94612,1669301,825,201910571492[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_TRUSTEE_FEE,Conduit Financing,Operating Expenses,Enterprise Fund,Trustee Fees_Conduit Financing,0,94612,1669301,825,201910571491[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_UNDERWRITER_FEE,Conduit Financing,Operating Expenses,Enterprise Fund,Underwriter's Fees_Conduit Financing,0,94612,1669301,825,201910571490[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_OTHR_AGENT_FEE,Conduit Financing,Operating Expenses,Enterprise Fund,Other Agent Fees_Conduit Financing,0,94612,1669301,825,201910571489[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_INSURANCE,Conduit Financing,Operating Expenses,Enterprise Fund,Insurance_Conduit Financing,0,94612,1669301,825,201910571488[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_PROJ_COST,Conduit Financing,Operating Expenses,Enterprise Fund,Project Costs_Conduit Financing,0,94612,1669301,825,201910571487[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_DEBT_ISSUANCE_COST,Conduit Financing,Operating Expenses,Enterprise Fund,Debt Issuance Costs_Conduit Financing,0,94612,1669301,825,201910571486[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_DIST_OUTSIDE_AGENCIES,Conduit Financing,Operating Expenses,Enterprise Fund,Distributions to Outside Agencies_Conduit Financing,0,94612,1669301,825,201910571485[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_PERS_SERV,Conduit Financing,Operating Expenses,Enterprise Fund,Personnel Services_Conduit Financing,0,94612,1669301,825,201910571484[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_CONTRACT_SERV,Conduit Financing,Operating Expenses,Enterprise Fund,Contractual Services_Conduit Financing,0,94612,1669301,825,201910571483[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_MATERIAL_SUPP,Conduit Financing,Operating Expenses,Enterprise Fund,Materials and Supplies_Conduit Financing,0,94612,1669301,825,201910571482[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_GEN_ADMIN_EXP,Conduit Financing,Operating Expenses,Enterprise Fund,General and Administrative Expenses_Conduit Financing,0,94612,1669301,825,201910571481[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_DEPR_AMORT_EXP,Conduit Financing,Operating Expenses,Enterprise Fund,Depreciation and Amortization Expenses_Conduit Financing,0,94612,1669301,825,201910571480[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_OTHR_OP_EXP_DEDUCT,Conduit Financing,Operating Expenses,Enterprise Fund,Other Operating Expenses/Deductions_Conduit Financing,0,94612,1669301,825,201910571479[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_INT_EXP,Conduit Financing,Nonoperating Expenses,Enterprise Fund,Interest Expense_Conduit Financing,0,94612,1669301,825,201910571478[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_LOSS_DISP_CAP_ASSET,Conduit Financing,Nonoperating Expenses,Enterprise Fund,Loss on Disposal of Capital Assets_Conduit Financing,0,94612,1669301,825,201910571477[m
+[32m+[m[32mAlameda,2019,Expenditures,ENT_OTHR_NONOP_EXP,Conduit Financing,Nonoperating Expenses,Enterprise Fund,Other Nonoperating Expenses_Conduit Financing,0,94612,1669301,825,201910571476[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_BOARD_SUPERVISORS,General Government,Legislative and Administrative,General,Board of Supervisors_General,10147487,94612,1669301,825,201910571475[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_BOARD_SUPERVISORS,General Government,Legislative and Administrative,Special Revenue,Board of Supervisors_Special Revenue,0,94612,1669301,825,201910571474[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_BOARD_SUPERVISORS,General Government,Legislative and Administrative,Debt Service,Board of Supervisors_Debt Service,0,94612,1669301,825,201910571473[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_BOARD_SUPERVISORS,General Government,Legislative and Administrative,Capital Projects,Board of Supervisors_Capital Projects,0,94612,1669301,825,201910571472[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_BOARD_SUPERVISORS,General Government,Legislative and Administrative,Permanent,Board of Supervisors_Permanent,0,94612,1669301,825,201910571471[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_CLERK_BOARD,General Government,Legislative and Administrative,General,Clerk of the Board_General,2007097,94612,1669301,825,201910571470[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_CLERK_BOARD,General Government,Legislative and Administrative,Special Revenue,Clerk of the Board_Special Revenue,0,94612,1669301,825,201910571469[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_CLERK_BOARD,General Government,Legislative and Administrative,Debt Service,Clerk of the Board_Debt Service,0,94612,1669301,825,201910571468[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_CLERK_BOARD,General Government,Legislative and Administrative,Capital Projects,Clerk of the Board_Capital Projects,0,94612,1669301,825,201910571467[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_CLERK_BOARD,General Government,Legislative and Administrative,Permanent,Clerk of the Board_Permanent,0,94612,1669301,825,201910571466[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADMIN_OFFICER,General Government,Legislative and Administrative,General,Administrative Officer_General,5270155,94612,1669301,825,201910571465[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_ADMIN_OFFICER,General Government,Legislative and Administrative,Special Revenue,Administrative Officer_Special Revenue,0,94612,1669301,825,201910571464[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_ADMIN_OFFICER,General Government,Legislative and Administrative,Debt Service,Administrative Officer_Debt Service,0,94612,1669301,825,201910571463[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_ADMIN_OFFICER,General Government,Legislative and Administrative,Capital Projects,Administrative Officer_Capital Projects,0,94612,1669301,825,201910571462[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_ADMIN_OFFICER,General Government,Legislative and Administrative,Permanent,Administrative Officer_Permanent,0,94612,1669301,825,201910571461[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_COUNCIL_GOVT,General Government,Legislative and Administrative,General,Council of Governments_General,0,94612,1669301,825,201910571460[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_COUNCIL_GOVT,General Government,Legislative and Administrative,Special Revenue,Council of Governments_Special Revenue,0,94612,1669301,825,201910571459[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_COUNCIL_GOVT,General Government,Legislative and Administrative,Debt Service,Council of Governments_Debt Service,0,94612,1669301,825,201910571458[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_COUNCIL_GOVT,General Government,Legislative and Administrative,Capital Projects,Council of Governments_Capital Projects,0,94612,1669301,825,201910571457[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_COUNCIL_GOVT,General Government,Legislative and Administrative,Permanent,Council of Governments_Permanent,0,94612,1669301,825,201910571456[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_LEG_ADMIN,General Government,Legislative and Administrative,General,Other Legislative and Administrative_General,0,94612,1669301,825,201910571455[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_LEG_ADMIN,General Government,Legislative and Administrative,Special Revenue,Other Legislative and Administrative_Special Revenue,0,94612,1669301,825,201910571454[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_LEG_ADMIN,General Government,Legislative and Administrative,Debt Service,Other Legislative and Administrative_Debt Service,0,94612,1669301,825,201910571453[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_LEG_ADMIN,General Government,Legislative and Administrative,Capital Projects,Other Legislative and Administrative_Capital Projects,0,94612,1669301,825,201910571452[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_LEG_ADMIN,General Government,Legislative and Administrative,Permanent,Other Legislative and Administrative_Permanent,0,94612,1669301,825,201910571451[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_AUDIT_CONTROLLER,General Government,Finance,General,Auditor-Controller_General,16668977,94612,1669301,825,201910571450[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_AUDIT_CONTROLLER,General Government,Finance,Special Revenue,Auditor-Controller_Special Revenue,0,94612,1669301,825,201910571449[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_AUDIT_CONTROLLER,General Government,Finance,Debt Service,Auditor-Controller_Debt Service,0,94612,1669301,825,201910571448[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_AUDIT_CONTROLLER,General Government,Finance,Capital Projects,Auditor-Controller_Capital Projects,0,94612,1669301,825,201910571447[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_AUDIT_CONTROLLER,General Government,Finance,Permanent,Auditor-Controller_Permanent,0,94612,1669301,825,201910571446[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_TREAS_TAX_COLLECTOR,General Government,Finance,General,Treasurer-Tax Collector_General,11281384,94612,1669301,825,201910571445[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_TREAS_TAX_COLLECTOR,General Government,Finance,Special Revenue,Treasurer-Tax Collector_Special Revenue,0,94612,1669301,825,201910571444[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_TREAS_TAX_COLLECTOR,General Government,Finance,Debt Service,Treasurer-Tax Collector_Debt Service,0,94612,1669301,825,201910571443[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_TREAS_TAX_COLLECTOR,General Government,Finance,Capital Projects,Treasurer-Tax Collector_Capital Projects,0,94612,1669301,825,201910571442[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_TREAS_TAX_COLLECTOR,General Government,Finance,Permanent,Treasurer-Tax Collector_Permanent,0,94612,1669301,825,201910571441[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ASSESSOR,General Government,Finance,General,Assessor_General,26524288,94612,1669301,825,201910571440[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_ASSESSOR,General Government,Finance,Special Revenue,Assessor_Special Revenue,0,94612,1669301,825,201910571439[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_ASSESSOR,General Government,Finance,Debt Service,Assessor_Debt Service,0,94612,1669301,825,201910571438[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_ASSESSOR,General Government,Finance,Capital Projects,Assessor_Capital Projects,0,94612,1669301,825,201910571437[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_ASSESSOR,General Government,Finance,Permanent,Assessor_Permanent,0,94612,1669301,825,201910571436[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_PURCHASING_AGENT,General Government,Finance,General,Purchasing Agent_General,9405985,94612,1669301,825,201910571435[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_PURCHASING_AGENT,General Government,Finance,Special Revenue,Purchasing Agent_Special Revenue,0,94612,1669301,825,201910571434[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_PURCHASING_AGENT,General Government,Finance,Debt Service,Purchasing Agent_Debt Service,0,94612,1669301,825,201910571433[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_PURCHASING_AGENT,General Government,Finance,Capital Projects,Purchasing Agent_Capital Projects,0,94612,1669301,825,201910571432[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_PURCHASING_AGENT,General Government,Finance,Permanent,Purchasing Agent_Permanent,0,94612,1669301,825,201910571431[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_FIN,General Government,Finance,General,Other Finance_General,12233239,94612,1669301,825,201910571430[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_FIN,General Government,Finance,Special Revenue,Other Finance_Special Revenue,0,94612,1669301,825,201910571429[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_FIN,General Government,Finance,Debt Service,Other Finance_Debt Service,0,94612,1669301,825,201910571428[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_FIN,General Government,Finance,Capital Projects,Other Finance_Capital Projects,0,94612,1669301,825,201910571427[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_FIN,General Government,Finance,Permanent,Other Finance_Permanent,0,94612,1669301,825,201910571426[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_COUNTY_COUNSEL,General Government,Counsel,General,County Counsel_General,4900240,94612,1669301,825,201910571425[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_COUNTY_COUNSEL,General Government,Counsel,Special Revenue,County Counsel_Special Revenue,0,94612,1669301,825,201910571424[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_COUNTY_COUNSEL,General Government,Counsel,Debt Service,County Counsel_Debt Service,0,94612,1669301,825,201910571423[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_COUNTY_COUNSEL,General Government,Counsel,Capital Projects,County Counsel_Capital Projects,0,94612,1669301,825,201910571422[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_COUNTY_COUNSEL,General Government,Counsel,Permanent,County Counsel_Permanent,0,94612,1669301,825,201910571421[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_DA_LEGAL_ADVICE,General Government,Counsel,General,District Attorney (Legal Advice)_General,0,94612,1669301,825,201910571420[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_DA_LEGAL_ADVICE,General Government,Counsel,Special Revenue,District Attorney (Legal Advice)_Special Revenue,0,94612,1669301,825,201910571419[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_DA_LEGAL_ADVICE,General Government,Counsel,Debt Service,District Attorney (Legal Advice)_Debt Service,0,94612,1669301,825,201910571418[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_DA_LEGAL_ADVICE,General Government,Counsel,Capital Projects,District Attorney (Legal Advice)_Capital Projects,0,94612,1669301,825,201910571417[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_DA_LEGAL_ADVICE,General Government,Counsel,Permanent,District Attorney (Legal Advice)_Permanent,0,94612,1669301,825,201910571416[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_COUNSEL,General Government,Counsel,General,Other Counsel_General,0,94612,1669301,825,201910571415[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_COUNSEL,General Government,Counsel,Special Revenue,Other Counsel_Special Revenue,0,94612,1669301,825,201910571414[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_COUNSEL,General Government,Counsel,Debt Service,Other Counsel_Debt Service,0,94612,1669301,825,201910571413[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_COUNSEL,General Government,Counsel,Capital Projects,Other Counsel_Capital Projects,0,94612,1669301,825,201910571412[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_COUNSEL,General Government,Counsel,Permanent,Other Counsel_Permanent,0,94612,1669301,825,201910571411[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_PERSONNEL,General Government,Personnel,General,Personnel_General,13851180,94612,1669301,825,201910571410[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_PERSONNEL,General Government,Personnel,Special Revenue,Personnel_Special Revenue,0,94612,1669301,825,201910571409[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_PERSONNEL,General Government,Personnel,Debt Service,Personnel_Debt Service,0,94612,1669301,825,201910571408[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_PERSONNEL,General Government,Personnel,Capital Projects,Personnel_Capital Projects,0,94612,1669301,825,201910571407[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_PERSONNEL,General Government,Personnel,Permanent,Personnel_Permanent,0,94612,1669301,825,201910571406[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ELECTIONS,General Government,Elections,General,Elections_General,28407346,94612,1669301,825,201910571405[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_ELECTIONS,General Government,Elections,Special Revenue,Elections_Special Revenue,0,94612,1669301,825,201910571404[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_ELECTIONS,General Government,Elections,Debt Service,Elections_Debt Service,0,94612,1669301,825,201910571403[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_ELECTIONS,General Government,Elections,Capital Projects,Elections_Capital Projects,0,94612,1669301,825,201910571402[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_ELECTIONS,General Government,Elections,Permanent,Elections_Permanent,0,94612,1669301,825,201910571401[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_COMMUNICATIONS,General Government,Communications,General,Communications_General,0,94612,1669301,825,201910571400[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_COMMUNICATIONS,General Government,Communications,Special Revenue,Communications_Special Revenue,0,94612,1669301,825,201910571399[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_COMMUNICATIONS,General Government,Communications,Debt Service,Communications_Debt Service,0,94612,1669301,825,201910571398[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_COMMUNICATIONS,General Government,Communications,Capital Projects,Communications_Capital Projects,0,94612,1669301,825,201910571397[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_COMMUNICATIONS,General Government,Communications,Permanent,Communications_Permanent,0,94612,1669301,825,201910571396[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_PROP_MANAGE,General Government,Property Management,General,Property Management_General,8620738,94612,1669301,825,201910571395[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_PROP_MANAGE,General Government,Property Management,Special Revenue,Property Management_Special Revenue,0,94612,1669301,825,201910571394[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_PROP_MANAGE,General Government,Property Management,Debt Service,Property Management_Debt Service,0,94612,1669301,825,201910571393[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_PROP_MANAGE,General Government,Property Management,Capital Projects,Property Management_Capital Projects,0,94612,1669301,825,201910571392[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_PROP_MANAGE,General Government,Property Management,Permanent,Property Management_Permanent,0,94612,1669301,825,201910571391[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_JAILS,General Government,Plant Acquisition,General,Jails_General,442402,94612,1669301,825,201910571390[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_JAILS,General Government,Plant Acquisition,Special Revenue,Jails_Special Revenue,0,94612,1669301,825,201910571389[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_JAILS,General Government,Plant Acquisition,Debt Service,Jails_Debt Service,0,94612,1669301,825,201910571388[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_JAILS,General Government,Plant Acquisition,Capital Projects,Jails_Capital Projects,0,94612,1669301,825,201910571387[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_JAILS,General Government,Plant Acquisition,Permanent,Jails_Permanent,0,94612,1669301,825,201910571386[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_COURTS,General Government,Plant Acquisition,General,Courts_General,0,94612,1669301,825,201910571385[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_COURTS,General Government,Plant Acquisition,Special Revenue,Courts_Special Revenue,0,94612,1669301,825,201910571384[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_COURTS,General Government,Plant Acquisition,Debt Service,Courts_Debt Service,0,94612,1669301,825,201910571383[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_COURTS,General Government,Plant Acquisition,Capital Projects,Courts_Capital Projects,0,94612,1669301,825,201910571382[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_COURTS,General Government,Plant Acquisition,Permanent,Courts_Permanent,0,94612,1669301,825,201910571381[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_PLANT_ACQUISITION,General Government,Plant Acquisition,General,Other Plant Acquisition_General,2753903,94612,1669301,825,201910571380[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_PLANT_ACQUISITION,General Government,Plant Acquisition,Special Revenue,Other Plant Acquisition_Special Revenue,486292,94612,1669301,825,201910571379[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_PLANT_ACQUISITION,General Government,Plant Acquisition,Debt Service,Other Plant Acquisition_Debt Service,0,94612,1669301,825,201910571378[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_PLANT_ACQUISITION,General Government,Plant Acquisition,Capital Projects,Other Plant Acquisition_Capital Projects,0,94612,1669301,825,201910571377[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_PLANT_ACQUISITION,General Government,Plant Acquisition,Permanent,Other Plant Acquisition_Permanent,0,94612,1669301,825,201910571376[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_PROMOTION,General Government,Promotion,General,Promotion_General,2132301,94612,1669301,825,201910571375[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_PROMOTION,General Government,Promotion,Special Revenue,Promotion_Special Revenue,0,94612,1669301,825,201910571374[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_PROMOTION,General Government,Promotion,Debt Service,Promotion_Debt Service,0,94612,1669301,825,201910571373[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_PROMOTION,General Government,Promotion,Capital Projects,Promotion_Capital Projects,0,94612,1669301,825,201910571372[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_PROMOTION,General Government,Promotion,Permanent,Promotion_Permanent,0,94612,1669301,825,201910571371[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_GEN_GOVT,General Government,Other General Government,General,Other General Government_General,5786413,94612,1669301,825,201910571370[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_GEN_GOVT,General Government,Other General Government,Special Revenue,Other General Government_Special Revenue,0,94612,1669301,825,201910571369[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_GEN_GOVT,General Government,Other General Government,Debt Service,Other General Government_Debt Service,12932,94612,1669301,825,201910571368[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_GEN_GOVT,General Government,Other General Government,Capital Projects,Other General Government_Capital Projects,0,94612,1669301,825,201910571367[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_GEN_GOVT,General Government,Other General Government,Permanent,Other General Government_Permanent,0,94612,1669301,825,201910571366[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_TRIAL_COURT_MAINT,Public Protection,Judicial,General,Trial Court Maintenance of Effort (MOE)(GC 77201.1 – Remitted to the State)_General,30039721,94612,1669301,825,201910571365[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_TRIAL_COURT_MAINT,Public Protection,Judicial,Special Revenue,Trial Court Maintenance of Effort (MOE)(GC 77201.1 – Remitted to the State)_Special Revenue,0,94612,1669301,825,201910571364[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_TRIAL_COURT_MAINT,Public Protection,Judicial,Debt Service,Trial Court Maintenance of Effort (MOE)(GC 77201.1 – Remitted to the State)_Debt Service,0,94612,1669301,825,201910571363[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_TRIAL_COURT_MAINT,Public Protection,Judicial,Capital Projects,Trial Court Maintenance of Effort (MOE)(GC 77201.1 – Remitted to the State)_Capital Projects,0,94612,1669301,825,201910571362[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_TRIAL_COURT_MAINT,Public Protection,Judicial,Permanent,Trial Court Maintenance of Effort (MOE)(GC 77201.1 – Remitted to the State)_Permanent,0,94612,1669301,825,201910571361[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_FIFTY_EXCESS_REV,Public Protection,Judicial,General,Fifty Percent Excess Revenue Calculation(GC 77205 – Remitted to the State)_General,0,94612,1669301,825,201910571360[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_FIFTY_EXCESS_REV,Public Protection,Judicial,Special Revenue,Fifty Percent Excess Revenue Calculation(GC 77205 – Remitted to the State)_Special Revenue,0,94612,1669301,825,201910571359[m
+[32m+[m[32mAlpine,2021,Expenditures,GEN_CLERK_BOARD,General Government,Legislative and Administrative,General,Clerk of the Board_General,417533,96120,1195,727,202110561470[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_FIFTY_EXCESS_REV,Public Protection,Judicial,Debt Service,Fifty Percent Excess Revenue Calculation(GC 77205 – Remitted to the State)_Debt Service,0,94612,1669301,825,201910571358[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_FIFTY_EXCESS_REV,Public Protection,Judicial,Capital Projects,Fifty Percent Excess Revenue Calculation(GC 77205 – Remitted to the State)_Capital Projects,0,94612,1669301,825,201910571357[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_FIFTY_EXCESS_REV,Public Protection,Judicial,Permanent,Fifty Percent Excess Revenue Calculation(GC 77205 – Remitted to the State)_Permanent,0,94612,1669301,825,201910571356[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_TRIAL_COURT,Public Protection,Judicial,General,Other Trial Court(Include Nonrule 810 – Facility Related and MOE Penalties GC 68065)_General,33429575,94612,1669301,825,201910571355[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_TRIAL_COURT,Public Protection,Judicial,Special Revenue,Other Trial Court(Include Nonrule 810 – Facility Related and MOE Penalties GC 68065)_Special Revenue,0,94612,1669301,825,201910571354[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_TRIAL_COURT,Public Protection,Judicial,Debt Service,Other Trial Court(Include Nonrule 810 – Facility Related and MOE Penalties GC 68065)_Debt Service,0,94612,1669301,825,201910571353[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_TRIAL_COURT,Public Protection,Judicial,Capital Projects,Other Trial Court(Include Nonrule 810 – Facility Related and MOE Penalties GC 68065)_Capital Projects,0,94612,1669301,825,201910571352[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_TRIAL_COURT,Public Protection,Judicial,Permanent,Other Trial Court(Include Nonrule 810 – Facility Related and MOE Penalties GC 68065)_Permanent,0,94612,1669301,825,201910571351[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_COUNTY_CLERK,Public Protection,Judicial,General,County Clerk_General,0,94612,1669301,825,201910571350[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_COUNTY_CLERK,Public Protection,Judicial,Special Revenue,County Clerk_Special Revenue,0,94612,1669301,825,201910571349[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_COUNTY_CLERK,Public Protection,Judicial,Debt Service,County Clerk_Debt Service,0,94612,1669301,825,201910571348[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_COUNTY_CLERK,Public Protection,Judicial,Capital Projects,County Clerk_Capital Projects,0,94612,1669301,825,201910571347[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_COUNTY_CLERK,Public Protection,Judicial,Permanent,County Clerk_Permanent,0,94612,1669301,825,201910571346[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_GRAND_JURY,Public Protection,Judicial,General,Grand Jury (Including Audit)_General,619188,94612,1669301,825,201910571345[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_GRAND_JURY,Public Protection,Judicial,Special Revenue,Grand Jury (Including Audit)_Special Revenue,0,94612,1669301,825,201910571344[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_GRAND_JURY,Public Protection,Judicial,Debt Service,Grand Jury (Including Audit)_Debt Service,0,94612,1669301,825,201910571343[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_GRAND_JURY,Public Protection,Judicial,Capital Projects,Grand Jury (Including Audit)_Capital Projects,0,94612,1669301,825,201910571342[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_GRAND_JURY,Public Protection,Judicial,Permanent,Grand Jury (Including Audit)_Permanent,0,94612,1669301,825,201910571341[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_DA_PROSECUTION,Public Protection,Judicial,General,District Attorney - Prosecution_General,91697259,94612,1669301,825,201910571340[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_DA_PROSECUTION,Public Protection,Judicial,Special Revenue,District Attorney - Prosecution_Special Revenue,0,94612,1669301,825,201910571339[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_DA_PROSECUTION,Public Protection,Judicial,Debt Service,District Attorney - Prosecution_Debt Service,0,94612,1669301,825,201910571338[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_DA_PROSECUTION,Public Protection,Judicial,Capital Projects,District Attorney - Prosecution_Capital Projects,0,94612,1669301,825,201910571337[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_DA_PROSECUTION,Public Protection,Judicial,Permanent,District Attorney - Prosecution_Permanent,0,94612,1669301,825,201910571336[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_CHILD_SUPP_SERVICES,Public Protection,Judicial,General,Child Support Services_General,25732026,94612,1669301,825,201910571335[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_CHILD_SUPP_SERVICES,Public Protection,Judicial,Special Revenue,Child Support Services_Special Revenue,0,94612,1669301,825,201910571334[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_CHILD_SUPP_SERVICES,Public Protection,Judicial,Debt Service,Child Support Services_Debt Service,0,94612,1669301,825,201910571333[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_CHILD_SUPP_SERVICES,Public Protection,Judicial,Capital Projects,Child Support Services_Capital Projects,0,94612,1669301,825,201910571332[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_CHILD_SUPP_SERVICES,Public Protection,Judicial,Permanent,Child Support Services_Permanent,0,94612,1669301,825,201910571331[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_PUBLIC_DEFENDER,Public Protection,Judicial,General,Public Defender_General,50172017,94612,1669301,825,201910571330[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_PUBLIC_DEFENDER,Public Protection,Judicial,Special Revenue,Public Defender_Special Revenue,0,94612,1669301,825,201910571329[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_PUBLIC_DEFENDER,Public Protection,Judicial,Debt Service,Public Defender_Debt Service,0,94612,1669301,825,201910571328[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_PUBLIC_DEFENDER,Public Protection,Judicial,Capital Projects,Public Defender_Capital Projects,0,94612,1669301,825,201910571327[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_PUBLIC_DEFENDER,Public Protection,Judicial,Permanent,Public Defender_Permanent,0,94612,1669301,825,201910571326[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_COURT_APPOINT_COUNSEL,Public Protection,Judicial,General,Court Appointed Counsel_General,75848,94612,1669301,825,201910571325[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_COURT_APPOINT_COUNSEL,Public Protection,Judicial,Special Revenue,Court Appointed Counsel_Special Revenue,0,94612,1669301,825,201910571324[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_COURT_APPOINT_COUNSEL,Public Protection,Judicial,Debt Service,Court Appointed Counsel_Debt Service,0,94612,1669301,825,201910571323[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_COURT_APPOINT_COUNSEL,Public Protection,Judicial,Capital Projects,Court Appointed Counsel_Capital Projects,0,94612,1669301,825,201910571322[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_COURT_APPOINT_COUNSEL,Public Protection,Judicial,Permanent,Court Appointed Counsel_Permanent,0,94612,1669301,825,201910571321[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_JUDICIAL,Public Protection,Judicial,General,Other Judicial_General,3957531,94612,1669301,825,201910571320[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_JUDICIAL,Public Protection,Judicial,Special Revenue,Other Judicial_Special Revenue,0,94612,1669301,825,201910571319[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_JUDICIAL,Public Protection,Judicial,Debt Service,Other Judicial_Debt Service,0,94612,1669301,825,201910571318[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_JUDICIAL,Public Protection,Judicial,Capital Projects,Other Judicial_Capital Projects,0,94612,1669301,825,201910571317[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_JUDICIAL,Public Protection,Judicial,Permanent,Other Judicial_Permanent,0,94612,1669301,825,201910571316[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_POLICE_PROTECTION,Public Protection,Police Protection,General,Police Protection_General,152834350,94612,1669301,825,201910571315[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_POLICE_PROTECTION,Public Protection,Police Protection,Special Revenue,Police Protection_Special Revenue,20258840,94612,1669301,825,201910571314[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_POLICE_PROTECTION,Public Protection,Police Protection,Debt Service,Police Protection_Debt Service,0,94612,1669301,825,201910571313[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_POLICE_PROTECTION,Public Protection,Police Protection,Capital Projects,Police Protection_Capital Projects,0,94612,1669301,825,201910571312[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_POLICE_PROTECTION,Public Protection,Police Protection,Permanent,Police Protection_Permanent,0,94612,1669301,825,201910571311[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_ADULT_DETENTION,Public Protection,Detention and Correction,General,Adult Detention_General,194841708,94612,1669301,825,201910571310[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_ADULT_DETENTION,Public Protection,Detention and Correction,Special Revenue,Adult Detention_Special Revenue,0,94612,1669301,825,201910571309[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_ADULT_DETENTION,Public Protection,Detention and Correction,Debt Service,Adult Detention_Debt Service,0,94612,1669301,825,201910571308[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_ADULT_DETENTION,Public Protection,Detention and Correction,Capital Projects,Adult Detention_Capital Projects,0,94612,1669301,825,201910571307[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_ADULT_DETENTION,Public Protection,Detention and Correction,Permanent,Adult Detention_Permanent,0,94612,1669301,825,201910571306[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_JUVENILE_DETENTION,Public Protection,Detention and Correction,General,Juvenile Detention_General,45459656,94612,1669301,825,201910571305[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_JUVENILE_DETENTION,Public Protection,Detention and Correction,Special Revenue,Juvenile Detention_Special Revenue,0,94612,1669301,825,201910571304[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_JUVENILE_DETENTION,Public Protection,Detention and Correction,Debt Service,Juvenile Detention_Debt Service,0,94612,1669301,825,201910571303[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_JUVENILE_DETENTION,Public Protection,Detention and Correction,Capital Projects,Juvenile Detention_Capital Projects,0,94612,1669301,825,201910571302[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_JUVENILE_DETENTION,Public Protection,Detention and Correction,Permanent,Juvenile Detention_Permanent,0,94612,1669301,825,201910571301[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_PROBATION,Public Protection,Detention and Correction,General,Probation_General,95174122,94612,1669301,825,201910571300[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_PROBATION,Public Protection,Detention and Correction,Special Revenue,Probation_Special Revenue,0,94612,1669301,825,201910571299[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_PROBATION,Public Protection,Detention and Correction,Debt Service,Probation_Debt Service,0,94612,1669301,825,201910571298[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_PROBATION,Public Protection,Detention and Correction,Capital Projects,Probation_Capital Projects,0,94612,1669301,825,201910571297[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_PROBATION,Public Protection,Detention and Correction,Permanent,Probation_Permanent,0,94612,1669301,825,201910571296[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_DETENTION_CORRECTION,Public Protection,Detention and Correction,General,Other Detention and Correction_General,0,94612,1669301,825,201910571295[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_DETENTION_CORRECTION,Public Protection,Detention and Correction,Special Revenue,Other Detention and Correction_Special Revenue,8645145,94612,1669301,825,201910571294[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_DETENTION_CORRECTION,Public Protection,Detention and Correction,Debt Service,Other Detention and Correction_Debt Service,0,94612,1669301,825,201910571293[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_DETENTION_CORRECTION,Public Protection,Detention and Correction,Capital Projects,Other Detention and Correction_Capital Projects,0,94612,1669301,825,201910571292[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_DETENTION_CORRECTION,Public Protection,Detention and Correction,Permanent,Other Detention and Correction_Permanent,0,94612,1669301,825,201910571291[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_FIRE_PROTECTION,Public Protection,Fire Protection,General,Fire Protection_General,0,94612,1669301,825,201910571290[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_FIRE_PROTECTION,Public Protection,Fire Protection,Special Revenue,Fire Protection_Special Revenue,132561603,94612,1669301,825,201910571289[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_FIRE_PROTECTION,Public Protection,Fire Protection,Debt Service,Fire Protection_Debt Service,0,94612,1669301,825,201910571288[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_FIRE_PROTECTION,Public Protection,Fire Protection,Capital Projects,Fire Protection_Capital Projects,0,94612,1669301,825,201910571287[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_FIRE_PROTECTION,Public Protection,Fire Protection,Permanent,Fire Protection_Permanent,0,94612,1669301,825,201910571286[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_FLOOD_CONTROL,Public Protection,Flood Control - Soil and Water Conservation,General,Flood Control - Soil and Water Conservation_General,0,94612,1669301,825,201910571285[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_FLOOD_CONTROL,Public Protection,Flood Control - Soil and Water Conservation,Special Revenue,Flood Control - Soil and Water Conservation_Special Revenue,51913018,94612,1669301,825,201910571284[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_FLOOD_CONTROL,Public Protection,Flood Control - Soil and Water Conservation,Debt Service,Flood Control - Soil and Water Conservation_Debt Service,0,94612,1669301,825,201910571283[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_FLOOD_CONTROL,Public Protection,Flood Control - Soil and Water Conservation,Capital Projects,Flood Control - Soil and Water Conservation_Capital Projects,0,94612,1669301,825,201910571282[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_FLOOD_CONTROL,Public Protection,Flood Control - Soil and Water Conservation,Permanent,Flood Control - Soil and Water Conservation_Permanent,0,94612,1669301,825,201910571281[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_AGRI_COMM,Public Protection,Protective Inspection,General,Agricultural Commissioner_General,5268569,94612,1669301,825,201910571280[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_AGRI_COMM,Public Protection,Protective Inspection,Special Revenue,Agricultural Commissioner_Special Revenue,0,94612,1669301,825,201910571279[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_AGRI_COMM,Public Protection,Protective Inspection,Debt Service,Agricultural Commissioner_Debt Service,0,94612,1669301,825,201910571278[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_AGRI_COMM,Public Protection,Protective Inspection,Capital Projects,Agricultural Commissioner_Capital Projects,0,94612,1669301,825,201910571277[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_AGRI_COMM,Public Protection,Protective Inspection,Permanent,Agricultural Commissioner_Permanent,0,94612,1669301,825,201910571276[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_BUILD_INSPECTOR,Public Protection,Protective Inspection,General,Building Inspector_General,2587752,94612,1669301,825,201910571275[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_BUILD_INSPECTOR,Public Protection,Protective Inspection,Special Revenue,Building Inspector_Special Revenue,0,94612,1669301,825,201910571274[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_BUILD_INSPECTOR,Public Protection,Protective Inspection,Debt Service,Building Inspector_Debt Service,0,94612,1669301,825,201910571273[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_BUILD_INSPECTOR,Public Protection,Protective Inspection,Capital Projects,Building Inspector_Capital Projects,0,94612,1669301,825,201910571272[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_BUILD_INSPECTOR,Public Protection,Protective Inspection,Permanent,Building Inspector_Permanent,0,94612,1669301,825,201910571271[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_LIVESTOCK_INSPECTOR,Public Protection,Protective Inspection,General,Livestock Inspector_General,0,94612,1669301,825,201910571270[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_LIVESTOCK_INSPECTOR,Public Protection,Protective Inspection,Special Revenue,Livestock Inspector_Special Revenue,0,94612,1669301,825,201910571269[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_LIVESTOCK_INSPECTOR,Public Protection,Protective Inspection,Debt Service,Livestock Inspector_Debt Service,0,94612,1669301,825,201910571268[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_LIVESTOCK_INSPECTOR,Public Protection,Protective Inspection,Capital Projects,Livestock Inspector_Capital Projects,0,94612,1669301,825,201910571267[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_LIVESTOCK_INSPECTOR,Public Protection,Protective Inspection,Permanent,Livestock Inspector_Permanent,0,94612,1669301,825,201910571266[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_SEALER_WEIGHTS_MEAS,Public Protection,Protective Inspection,General,Sealer of Weights and Measures_General,1047451,94612,1669301,825,201910571265[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_SEALER_WEIGHTS_MEAS,Public Protection,Protective Inspection,Special Revenue,Sealer of Weights and Measures_Special Revenue,0,94612,1669301,825,201910571264[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_SEALER_WEIGHTS_MEAS,Public Protection,Protective Inspection,Debt Service,Sealer of Weights and Measures_Debt Service,0,94612,1669301,825,201910571263[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_SEALER_WEIGHTS_MEAS,Public Protection,Protective Inspection,Capital Projects,Sealer of Weights and Measures_Capital Projects,0,94612,1669301,825,201910571262[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_SEALER_WEIGHTS_MEAS,Public Protection,Protective Inspection,Permanent,Sealer of Weights and Measures_Permanent,0,94612,1669301,825,201910571261[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_OTHR_PROTECTIVE_INSPECTION,Public Protection,Protective Inspection,General,Other Protective Inspection_General,0,94612,1669301,825,201910571260[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_OTHR_PROTECTIVE_INSPECTION,Public Protection,Protective Inspection,Special Revenue,Other Protective Inspection_Special Revenue,0,94612,1669301,825,201910571259[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_OTHR_PROTECTIVE_INSPECTION,Public Protection,Protective Inspection,Debt Service,Other Protective Inspection_Debt Service,0,94612,1669301,825,201910571258[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_OTHR_PROTECTIVE_INSPECTION,Public Protection,Protective Inspection,Capital Projects,Other Protective Inspection_Capital Projects,0,94612,1669301,825,201910571257[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_OTHR_PROTECTIVE_INSPECTION,Public Protection,Protective Inspection,Permanent,Other Protective Inspection_Permanent,0,94612,1669301,825,201910571256[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_LAFCO,Public Protection,Protection – Other,General,LAFCO_General,196948,94612,1669301,825,201910571255[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_LAFCO,Public Protection,Protection – Other,Special Revenue,LAFCO_Special Revenue,0,94612,1669301,825,201910571254[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_LAFCO,Public Protection,Protection – Other,Debt Service,LAFCO_Debt Service,0,94612,1669301,825,201910571253[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_LAFCO,Public Protection,Protection – Other,Capital Projects,LAFCO_Capital Projects,0,94612,1669301,825,201910571252[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_LAFCO,Public Protection,Protection – Other,Permanent,LAFCO_Permanent,0,94612,1669301,825,201910571251[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_RECORDER,Public Protection,Protection – Other,General,Recorder_General,11675480,94612,1669301,825,201910571250[m
+[32m+[m[32mAlameda,2019,Expenditures,SR_RECORDER,Public Protection,Protection – Other,Special Revenue,Recorder_Special Revenue,0,94612,1669301,825,201910571249[m
+[32m+[m[32mAlameda,2019,Expenditures,DEBT_RECORDER,Public Protection,Protection – Other,Debt Service,Recorder_Debt Service,0,94612,1669301,825,201910571248[m
+[32m+[m[32mAlameda,2019,Expenditures,CAPPROJ_RECORDER,Public Protection,Protection – Other,Capital Projects,Recorder_Capital Projects,0,94612,1669301,825,201910571247[m
+[32m+[m[32mAlameda,2019,Expenditures,PERM_RECORDER,Public Protection,Protection – Other,Permanent,Recorder_Permanent,0,94612,1669301,825,201910571246[m
+[32m+[m[32mAlameda,2019,Expenditures,GEN_CORONER,Public Protection,Protection – Other,General,Coroner_General,9076492,94612,1669301,825,201910571245[m
+[32m+[m[32m
